@@ -10,7 +10,7 @@ Translation engine designed for applications, it generates a translation for mul
 <br> <br>
 
 **1**. The idea for AppTranslator came from the following reasons
-  - the need of an instant tranalation
+  - the need of an instant translation
   - good translations without overdo
   - speed up the process of making a translation and skip the task of finding people that can do the work of a translator
 

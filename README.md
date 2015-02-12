@@ -38,4 +38,6 @@ Something like AppTranslator do a similar job but in a very different way. On ap
 
 <br>
 
+**5**. For everything work as expected, a set of rules need to be made, for example, allow the engine to differenciate singular words from plural, verb tenses and a lot of wording and lots more. This sound like a lot and very complicated but in fact it isn't as any one may think. An elimination process is also required for this to work, associating every synonim to a single word, eliminating variety, mistakes and failure to keep text as polite as possible.
+
 **WORK IN PROGRESS**

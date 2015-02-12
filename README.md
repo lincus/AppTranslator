@@ -26,12 +26,13 @@ Something like AppTranslator do a similar job but in a very different way. On ap
 <br>
 
 **4**. This is very important and shouldn't be ignored because it will save us a lot of time answering to anyone on the Q&A.
-  The possibilities:
+####The possibilities:
 - creation of easy translations
 - can be used for local and web software
 - can be extended to any language 
 - flexible list of usable words that can be easily customized
-  The limitations:
+
+####The limitations:
 - only translate single words and short phrases
 - dialogues, tutorials and guides put into any app or game will suffer very rough and incomplete translations
 - translation is limited to the existing words included on the library of words being used by the engine
